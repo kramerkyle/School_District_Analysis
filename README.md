@@ -14,8 +14,8 @@ This analysis was conducted to evaluate the performance of students and schools 
 Replacing the ninth grade scores elicited
 - Math and Reading Scores by Grade to show a NaN value for Thomas High School.
 - Scores by School Spending to be lower within the $630-644 category.
-- Scores by School Size to (Medium)
-- Scores by School Type to (Charter)
+- Scores by School Size did not appear to change given the formatting of the numbers. 
+- Scores by School Type did not appear to change given the formatting of the numbers.
 
 # Summary
-In closing, the four most drastic changes to the school district analysis after reading and math scores haves been replaced are:
+In closing, after replacing the reading and math scores from Thomas High School with NaNs in the School District Analysis, our results changed. Specifically, we saw downward pressure on grades for Thomas High School and data sets that involved it. We saw a marginal decline occur within grades in the Scores by School data frame. Comparing schools by grade level, we see "nan" populate within the data frame, giving confidence that the appropriate scores were removed from the analysis. Finally, not all numbers visibly changed because of the formatting of the numbers. Within School Size and School type, results were formatted with either one or no decimal, and this choice will cause the nuance of the change to escape detection.
